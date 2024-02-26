@@ -28,5 +28,8 @@ Scripts: Hosts Excel scripts used for data cleaning and analysis.
 
 Visualizations: Stores PowerBI visual outputs for easy access.
 
+
+![Capture](https://github.com/IlyasHassan1/PowerBI-Global-Superstore-Data/assets/156099554/2578c9d3-c430-4ced-86bf-a50ebff28c00)
+
 ## Contribute 🚀
 Found issues, have suggestions, or wish to contribute? Open an issue or pull request – your collaboration is invaluable!
